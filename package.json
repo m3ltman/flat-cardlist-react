@@ -1,0 +1,38 @@
+{
+  "name": "creative-test-task",
+  "version": "1.0.0",
+  "description": "A simple adaptive React app that renders list of cards which can be liked",
+  "main": "index.js",
+  "scripts": {
+    "build": "rimraf dist && webpack --mode production",
+    "dev": "webpack-dev-server --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3ltman/creative-test-task.git"
+  },
+  "author": "Dmitrii Koshelev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m3ltman/creative-test-task/issues"
+  },
+  "homepage": "https://github.com/m3ltman/creative-test-task#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "css-loader": "^1.0.0",
+    "file-loader": "^6.0.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.1.8"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-hot-loader": "^4.12.21"
+  }
+}
