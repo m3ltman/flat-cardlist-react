@@ -1,0 +1,14 @@
+@import url(./_liked/flat-card__like-icon_liked.css);
+
+.flat-card__like-icon {
+  background: url(../../../images/like-inactive.svg) 50% no-repeat;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: transparent;
+  border: none;
+  width: 20px;
+  height: 18px;
+  cursor: pointer;
+  transition: transform .3s linear;
+}

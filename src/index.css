@@ -1,5 +1,11 @@
 @import url(./blocks/app/app.css);
+@import url(./blocks/flat-card/flat-card.css);
+@import url(./blocks/preloader/preloader.css);
+@import url(./blocks/cards/cards.css);
+@import url(./blocks/root/root.css);
 
 body {
-  background-color: red;
+  background-color: black;
+  max-width: 1440px;
+  margin: auto;
 }
