@@ -1,0 +1,193 @@
+{
+  "flats": [
+    {
+      "type": "flat",
+      "id": 1,
+      "attributes": {
+        "title": "3-х комнатная на Минской",
+        "photo": "https://source.unsplash.com/1vMz2_MclrM/282x360",
+        "rooms": 3,
+        "address": {
+          "city": "Tyumen",
+          "street": "Минская",
+          "house": "3a",
+          "room": "123"
+        },
+        "area": 134,
+        "unit": "квм"
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      },
+      "like": true
+    },
+    {
+      "type": "flat",
+      "id": 2,
+      "attributes": {
+        "title": "1 комнатная на Барабаинской",
+        "photo": "https://source.unsplash.com/r_y2VBvEOIE/282x360",
+        "rooms": 2,
+        "address": {
+          "city": "Tyumen",
+          "street": "Барабинская",
+          "house": "12",
+          "room": "45"
+        },
+        "area": 34,
+        "unit": "квм"
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 10,
+        "attributes": {
+          "first_name": "Михаил",
+          "last_name": "Иванов",
+          "middle_name": "Демидович"
+        }
+      },
+      "like": false
+    },
+    {
+      "type": "flat",
+      "id": 3,
+      "attributes": {
+        "title": "Квартира Ленина",
+        "photo": "https://source.unsplash.com/OtXADkUh3-I/282x360",
+        "rooms": 4,
+        "address": {
+          "city": "Tyumen",
+          "street": "Ленина",
+          "house": "134",
+          "room": "24"
+        },
+        "area": 134,
+        "unit": "квм"
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 44,
+        "attributes": {
+          "first_name": "Степан",
+          "last_name": "Карачаев",
+          "middle_name": "Иванович"
+        }
+      },
+      "like": true
+    },
+    {
+      "type": "flat",
+      "id": 4,
+      "attributes": {
+        "title": "1 комнатная на Барабаинской",
+        "photo": "https://source.unsplash.com/r_y2VBvEOIE/282x360",
+        "rooms": 2,
+        "address": {
+          "city": "Tyumen",
+          "street": "Барабинская",
+          "house": "12",
+          "room": "45"
+        },
+        "area": 34,
+        "unit": "квм"
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 10,
+        "attributes": {
+          "first_name": "Михаил",
+          "last_name": "Иванов",
+          "middle_name": "Демидович"
+        }
+      },
+      "like": false
+    },
+    {
+      "type": "flat",
+      "id": 5,
+      "attributes": {
+        "title": "3-х комнатная на Минской",
+        "photo": "https://source.unsplash.com/1vMz2_MclrM/282x360",
+        "rooms": 3,
+        "address": {
+          "city": "Tyumen",
+          "street": "Минская",
+          "house": "3a",
+          "room": "123"
+        },
+        "area": 134,
+        "unit": "квм"
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 2,
+        "attributes": {
+          "first_name": "Василий",
+          "last_name": "Дроздов",
+          "middle_name": "Михайлович"
+        }
+      },
+      "like": false
+    },
+    {
+      "type": "flat",
+      "id": 6,
+      "attributes": {
+        "title": "Квартира Ленина",
+        "photo": "https://source.unsplash.com/OtXADkUh3-I/282x360",
+        "rooms": 4,
+        "address": {
+          "city": "Tyumen",
+          "street": "Ленина",
+          "house": "134",
+          "room": "24"
+        },
+        "area": 134,
+        "unit": "квм"
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 44,
+        "attributes": {
+          "first_name": "Степан",
+          "last_name": "Карачаев",
+          "middle_name": "Иванович"
+        }
+      },
+      "like": false
+    },
+    {
+      "type": "flat",
+      "id": 7,
+      "attributes": {
+        "title": "1 комнатная на Барабаинской",
+        "photo": "https://source.unsplash.com/r_y2VBvEOIE/282x360",
+        "rooms": 2,
+        "address": {
+          "city": "Tyumen",
+          "street": "Барабинская",
+          "house": "12",
+          "room": "45"
+        },
+        "area": 34,
+        "unit": "квм"
+      },
+      "relationships": {
+        "type": "agent",
+        "id": 10,
+        "attributes": {
+          "first_name": "Михаил",
+          "last_name": "Иванов",
+          "middle_name": "Демидович"
+        }
+      },
+      "like": true
+    }
+  ]
+}
