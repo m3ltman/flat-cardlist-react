@@ -1,6 +1,6 @@
 # Список карточек на React
 
-1. Бэкенд сымитирован с помощью JSON server, данные в db.json (Обращение к API идёт на порт localhost:3004)
+1. Бэкенд сымитирован с помощью JSON server, данные в db.json
 
 2. Структура проекта по БЭМ
 
@@ -10,6 +10,8 @@
 
 2) Установите зависимости командой **npm install**
 
-3) Команда npm run build собирает продакшн бандл в папке dist
+3) Запустите JSON server на 3004 порту
 
-4) Команда npm run dev запускает webpack dev server с hot reload на localhost:8080
+4) Команда npm run build собирает продакшн бандл в папке dist
+
+5) Команда npm run dev запускает webpack dev server с hot reload на localhost:8080
