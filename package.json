@@ -1,5 +1,5 @@
 {
-  "name": "creative-test-task",
+  "name": "flat-cardlist-react",
   "version": "1.0.0",
   "description": "A simple adaptive React app that renders list of cards which can be liked",
   "main": "index.js",
