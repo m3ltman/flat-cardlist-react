@@ -10,7 +10,7 @@
 
 2) Установите зависимости командой **npm install**
 
-3) Запустите JSON server на 3000 порту
+3) Запустите JSON server командой json-server --watch db.json на 3000 порту
 
 4) Команда npm run build собирает продакшн бандл в папке dist
 
